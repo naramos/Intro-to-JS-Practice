@@ -171,7 +171,7 @@
         {
             "slug": "13-How-much-the-wedding-costs",
             "title": "13-How-much-the-wedding-costs",
-            "done": false,
+            "done": true,
             "path": "exercises/13-How-much-the-wedding-costs",
             "translations": [
                 "es",
@@ -182,7 +182,7 @@
         {
             "slug": "14-Your-first-switch",
             "title": "14-Your-first-switch",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Your-first-switch",
             "translations": [
                 "es",
@@ -193,7 +193,7 @@
         {
             "slug": "15-Random-numbers",
             "title": "15-Random-numbers",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Random-numbers",
             "translations": [
                 "es",
@@ -204,7 +204,7 @@
         {
             "slug": "16-Rand-from-one-to-six",
             "title": "16-Rand-from-one-to-six",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Rand-from-one-to-six",
             "translations": [
                 "es",
@@ -215,7 +215,7 @@
         {
             "slug": "17-Your-first-loop",
             "title": "17-Your-first-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Your-first-loop",
             "translations": [
                 "es",
@@ -226,7 +226,7 @@
         {
             "slug": "18-Create-a-for-loop",
             "title": "18-Create-a-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Create-a-for-loop",
             "translations": [
                 "es",
@@ -237,7 +237,7 @@
         {
             "slug": "19-While-loop",
             "title": "19-While-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/19-While-loop",
             "translations": [
                 "es",
